@@ -1,7 +1,8 @@
-@import url("styles /header.css");
+@import url("styles/header.css");
 body {
   background-color: bisque;
 }
+
 .container img{
   max-width:200px;
   max-height: 100px;
