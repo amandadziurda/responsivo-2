@@ -1,26 +1,20 @@
 @import url ("styles/header.css");
 
-@media screen and (min-width: 800px) {
-  .h1 {
-    font-size: 500%;
-    color: #288246;
-    background-color: blueviolet;
-  }
-}
-
-
 body {
   background-color: bisque;
 }
+
 .container img{
   max-width:200px;
   max-height: 100px;
   width:auto;
   height: auto;
 }
+
 .h1 {
   color:blue;
 }
+
 .h2 {
   color: brown;
 }
